@@ -1,0 +1,5 @@
+b = True
+while b:
+    endnumber = int(input("число"))
+    if endnumber == 0:
+        b = False
